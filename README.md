@@ -1,10 +1,11 @@
-### Hi there 👋
-
+### Hey there 👋
+I am Utkarsha Mokashi.
 <!--
 **utkarshamokashi/utkarshamokashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+I am currently in the Second year of Computer Engineering in K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
