@@ -6,7 +6,7 @@ I am Utkarsha Mokashi.
 Here are some ideas to get you started:
 -->
 
-I am currently in the Second year of Computer Engineering in K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
+I am currently in the Final year of Computer Engineering in K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
 
 ⚡I like developing mobile applications using flutter.
 <!-- - 🔭 I’m currently working on ...
