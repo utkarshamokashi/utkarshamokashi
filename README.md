@@ -6,9 +6,11 @@ I am Utkarsha Mokashi.
 Here are some ideas to get you started:
 -->
 
-I am currently in the Final year of Computer Engineering in K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
+I have completed B.Tech in Computer Engineering from K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
+I will be joining University of Southern California for the course Master of Science in Computer Science - Artificial Intelligence!
 
-⚡I am interested in the field of AI, ML and App Developement using flutter.
+⚡I am interested in the field of AI, ML as well as game developement.
+I would love to venture more into competitive coding and level up my coding skills!
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
