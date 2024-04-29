@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 Currently Pursuing Master of Science in Computer Science at University of Southern California! ✨
 
 I have completed B.Tech in Computer Engineering from K.J. Somaiya Institute of Engineering and Information Technology, Mumbai, India.
-I will be joining University of Southern California for the course Master of Science in Computer Science - Artificial Intelligence!
 
 ⚡I am interested in the field of AI, ML as well as game developement.
 - I am also currently aiming to venture more into competitive coding and level up my coding skills!
